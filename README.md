@@ -3,17 +3,18 @@
 ## The Challenge:
 ​
 ---
-​
+
 **Build a simple e-commerce solution in under 2.5 hours.**
-​
+
 **Required Views:**
-​
+
 - Product List View
 - Product Detail View
 - Cart View
-​
+
+
 **Required features:**
-​
+
 - Display all products in the Product List view (Display at least: Product name, a short description, price, one image)
 - Display all product details on the Product Detail View
 - If the product has any reviews, display them on the Product Detail View
